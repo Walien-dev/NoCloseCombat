@@ -1,5 +1,5 @@
-# NoCloseCombat
-Simple script to disable close combat / gun whipping
+# FiveM - NoCloseCombat
+Simple script to disable close combat / gun whipping 
 
 
 Download this FiveM resource to disable close combat when you don't have melee weapon in hands!
